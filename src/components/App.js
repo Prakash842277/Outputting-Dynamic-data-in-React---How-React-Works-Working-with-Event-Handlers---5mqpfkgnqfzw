@@ -15,4 +15,4 @@ const App = () => {
 }
 
 
-export default A;
+export default App;
